@@ -1,0 +1,15 @@
+D:\reposvs\DistantRPM3\DistantRPM3\bin\Debug\net6.0\DistantRPM3.exe
+D:\reposvs\DistantRPM3\DistantRPM3\bin\Debug\net6.0\DistantRPM3.deps.json
+D:\reposvs\DistantRPM3\DistantRPM3\bin\Debug\net6.0\DistantRPM3.runtimeconfig.json
+D:\reposvs\DistantRPM3\DistantRPM3\bin\Debug\net6.0\DistantRPM3.dll
+D:\reposvs\DistantRPM3\DistantRPM3\bin\Debug\net6.0\DistantRPM3.pdb
+D:\reposvs\DistantRPM3\DistantRPM3\obj\Debug\net6.0\DistantRPM3.csproj.AssemblyReference.cache
+D:\reposvs\DistantRPM3\DistantRPM3\obj\Debug\net6.0\DistantRPM3.GeneratedMSBuildEditorConfig.editorconfig
+D:\reposvs\DistantRPM3\DistantRPM3\obj\Debug\net6.0\DistantRPM3.AssemblyInfoInputs.cache
+D:\reposvs\DistantRPM3\DistantRPM3\obj\Debug\net6.0\DistantRPM3.AssemblyInfo.cs
+D:\reposvs\DistantRPM3\DistantRPM3\obj\Debug\net6.0\DistantRPM3.csproj.CoreCompileInputs.cache
+D:\reposvs\DistantRPM3\DistantRPM3\obj\Debug\net6.0\DistantRPM3.dll
+D:\reposvs\DistantRPM3\DistantRPM3\obj\Debug\net6.0\refint\DistantRPM3.dll
+D:\reposvs\DistantRPM3\DistantRPM3\obj\Debug\net6.0\DistantRPM3.pdb
+D:\reposvs\DistantRPM3\DistantRPM3\obj\Debug\net6.0\DistantRPM3.genruntimeconfig.cache
+D:\reposvs\DistantRPM3\DistantRPM3\obj\Debug\net6.0\ref\DistantRPM3.dll
